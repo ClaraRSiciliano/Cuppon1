@@ -1,0 +1,60 @@
+* {
+   font-family: 'Roboto', sans-serif
+
+}
+
+.miheader { 
+    height: 62px;
+}
+
+.miheader {
+    z-index: 1000 ;
+    position: relative;
+}
+
+.nav-link {
+    color: white;
+}
+
+.card {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.texto1 p {
+    font-size: 13px;
+}
+
+.texto2 p {
+    font-size: 13px;
+}
+
+.texto2 i {
+    margin-right: 4.4px;
+}
+
+.card-title {
+    font-size: 20px;
+    line-height: 100%;
+    
+}
+
+.precio2 {
+    color: #28A745;
+}
+
+::placeholder {
+    font-weight: 300;
+}
+
+footer img {
+    align-items: center;
+    height: 24px;
+    width: 82px;
+}
+
+.derechos {
+    text-align: center;
+}
+
+
